@@ -7,7 +7,7 @@
 💞️ I’m looking to collaborate on developers and people which wants to learn.
 
 📫 You can reach me on my Instagram: guihoras_ 
-      and on LinkedIn: https://www.linkedin.com/in/guilherme-henrique-ramos-dos-santos-351586177/
+      and on LinkedIn: https://www.linkedin.com/in/guilherme-henrique-ramos-dos-santos/
       
 <div>
       <a href="https://github.com/GuilhermeHRS">
