@@ -1,6 +1,6 @@
 👋 Hi, I’m Guilherme Henrique Ramos dos Santos || @GuilhermeHRS 
 
-👀 I’m interested in improve my acknoledge and work with front-end development and start a career with the same. 
+👀 I’m interested in improve my acknoledge line, become a great full stack developer and start a career with the same. 
 
 🌱 I’m currently learning Laravel and Javascript.
 
