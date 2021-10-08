@@ -1,4 +1,4 @@
-👋 Hi, I’m Guilherme Henrique Ramos dos Santos || @GuilhermeHRS 
+👋 Hi, I’m Guilherme Henrique || @GuilhermeHRS 
 
 👀 I’m interested in improve my acknoledge line, become a great full stack developer and start a career with the same
 
