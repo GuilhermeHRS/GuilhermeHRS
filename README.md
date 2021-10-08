@@ -1,4 +1,4 @@
-👋 <h2>Hi, I’m Guilherme Henrique || @GuilhermeHRS</h2> 
+<h2>Hi, I’m Guilherme Henrique || @GuilhermeHRS</h2> 
 
 👀 I’m interested in improve my acknoledge line, become a great full stack developer and start a career with the same
 
