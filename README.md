@@ -2,7 +2,7 @@
 
 👀 I’m interested in improve my acknoledge line, become a great full stack developer and start a career with the same
 
-🌱 I’m currently learning Laravel, Javascript and React
+🌱 I’m currently learning Javascript and React
 
 💞️ I’m looking to collaborate on developers and people which wants to learn
 
