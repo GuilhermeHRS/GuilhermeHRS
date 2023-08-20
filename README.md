@@ -1,6 +1,6 @@
 <h2>Hi there! I’m Guilherme Henrique || @GuilhermeHRS</h2> 
 
-🌱 I’m currently studying Javascript and React
+🌱 I’m currently studying Python and Power Bi to data analytics
 
 💞️ I’m looking to collaborate on developers and people which wants to learn
 
@@ -21,6 +21,8 @@
       <img align="center" alt="Gui-PHP"   height="40"  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
       <img align="center" alt="Gui-MySQL" height="40"  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
       <img align="center" alt="Gui-MySQL" height="40"  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+ <img align="center" alt="Gui-LinkedIn" height="40"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+
 </div>
  
 ##
@@ -31,7 +33,6 @@
     <a href = "mailto:guilhermehrs19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/guihoras_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/GuilhermeHRS/GuilhermeHRS/blob/output/github-contribution-grid-snake.svg)
       
 </div>
 
