@@ -1,6 +1,6 @@
 <h2>Hi there! I’m Guilherme Henrique || @GuilhermeHRS</h2> 
 
-🌱 I’m currently studying Python and Power Bi to data analytics
+🌱 I’m currently studying Python and Power BI to data analytics
 
 💞️ I’m looking to collaborate on developers and people which wants to learn
 
