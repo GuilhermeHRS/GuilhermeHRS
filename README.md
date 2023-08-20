@@ -21,7 +21,6 @@
       <img align="center" alt="Gui-PHP"   height="40"  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
       <img align="center" alt="Gui-MySQL" height="40"  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
       <img align="center" alt="Gui-MySQL" height="40"  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
- <img align="center" alt="Gui-LinkedIn" height="40"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 
 </div>
  
